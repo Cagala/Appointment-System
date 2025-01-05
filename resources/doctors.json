@@ -1,0 +1,28 @@
+{
+   "doctors": {
+      "John Walker": {
+         "availableTimes": [
+            {
+               "end": 630,
+               "start": 510
+            },
+            {
+               "end": 730,
+               "start": 650
+            },
+            {
+               "end": 1050,
+               "start": 870
+            }
+         ],
+         "office": "KBB Poliklinik I",
+         "password": "john1122AAAAA",
+         "patients": [
+            {
+               "date": 630,
+               "patientName": "Joshua Mitchell"
+            }
+         ]
+      }
+   }
+}

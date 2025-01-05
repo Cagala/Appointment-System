@@ -1,0 +1,49 @@
+{
+   "offices": {
+      "Cildiye Poliklinik I": {
+         "doctor": ""
+      },
+      "Cildiye Poliklinik II": {
+         "doctor": ""
+      },
+      "Cildiye Poliklinik III": {
+         "doctor": ""
+      },
+      "Dahiliye Poliklinik I": {
+         "doctor": ""
+      },
+      "Dahiliye Poliklinik II": {
+         "doctor": ""
+      },
+      "Dahiliye Poliklinik III": {
+         "doctor": ""
+      },
+      "Göz Poliklinik I": {
+         "doctor": ""
+      },
+      "Göz Poliklinik II": {
+         "doctor": ""
+      },
+      "Göz Poliklinik III": {
+         "doctor": ""
+      },
+      "KBB Poliklinik I": {
+         "doctor": "John Walker"
+      },
+      "KBB Poliklinik II": {
+         "doctor": ""
+      },
+      "KBB Poliklinik III": {
+         "doctor": ""
+      },
+      "Kardiyoloji Poliklinik I": {
+         "doctor": ""
+      },
+      "Kardiyoloji Poliklinik II": {
+         "doctor": ""
+      },
+      "Kardiyoloji Poliklinik III": {
+         "doctor": ""
+      }
+   }
+}
